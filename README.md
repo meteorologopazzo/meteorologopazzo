@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @meteorologopazzo
+- 👀 I’m interested in Meteorology and Flight
+- 🌱 I’m currently learning how to get by
