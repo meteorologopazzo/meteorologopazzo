@@ -1,23 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
+
+<!--
+this is an example of definition of 
+INTERNAL CASCADING STYLE SHEETS (CSS)
+-->
+<head>
+  <style>
+  body {background-color: powderblue;}
+  h1   {color: blue;}
+  p    {color: red;}
+  </style>
+  </head>
+
 <body>
 
-<h1> All that glitters is not gold </h1>
+<!-- if defined externally 
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+-->
+
+<h1 style="border:2px solid green; text-align: center;"> All that glitters is not gold </h1>
 <!-- <h3> or how to go meow meow even if you don't want to </h3> -->
 
-<p style="color:red;" title="title not showing up?"> 
-Once upon a time I was running this HTML file when suddenly <span style="color:green;">it all turned red!</span>
+<p style="color:red; font-family:verdana;" title="title not showing up?"> 
+Once upon a time I was running this HTML file when suddenly <span style="color:green;"> <b> it all turned red! </b> </span>
 </p>
  
-<p title="what happened next">
+<p title="what happened next" style="text-align:center">
   Then I got a little bit distracted, you know, any quick sip of wind can easily blow my mind and booom I was hit by a downslope storm.
 </p>
-<p>Image taken from <a href="https://tropicaltidbits.com">here</a>.</p>
-<img src="/home/alessandro/Desktop/gfs_2024122000_fh6_xsection_48.44N,6.06E_42.27N,10.47E_FGEN,-Theta-e,-Omega.png" alt="Descriptive image text" style="width:400px;height:300px;"> <br>
 
+<img src="/home/alessandro/Desktop/gfs_2024122000_fh6_xsection_48.44N,6.06E_42.27N,10.47E_FGEN,-Theta-e,-Omega.png" alt="TROVA UN'ALTRA IMMAGINE" style="width:400px;height:300px;"> <br>
+<p>Image taken from <a href="https://tropicaltidbits.com" title="Go To tropicaltidbits.com">here</a>.</p>
+<hr>
 
 I felt like I needed to spit this down on my notebook as fast as possible to make it as real as I could you know, but I kinda struggle a little with 
-blank spaces and line formatting, so I dropped a < pre > element
+blank spaces and line formatting, so I dropped a < pre > element <strong> right </strong> where it needed be
 
 <pre>
 Oh wind
@@ -30,6 +53,27 @@ but if thou's
 to blow 
 too strong
 methinks   i    could      easilyy    fly                awaayayyyyy
+</pre>
+
+Imma show you how censorship really works here: "I <del>really don't like</del> <ins> love so much </ins> pumpkin soupe", 
+but if you really want to be surprised try reading <!-- <button onclick="document.location='https://it.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor'" target="_blank">  </button> -->
+
+<a href="https://it.wikipedia.org/wiki/L%C3%A9opold_S%C3%A9dar_Senghor" target="_blank" title="Leopold Sénghor">
+  <button> this guy's poems</button>
+</a>
+
+
+
+<!-- 
+##########################
+
+with <a> it is possible to set hyperlinks to chapter/header/paragraph/... BOOKMARKS
+  consider this as a possible command to link different html files
+
+##########################
+-->
+
+
 
 </body>
 </html>
