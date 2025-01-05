@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @meteorologopazzo
 - 👀 I’m interested in Meteorology, Clouds and Flight
-- 🌱 I’m currently learning how to get by
+- 🌱 I’m currently learning how to do good research [here](https://sites.google.com/unimib.it/pasquero/home?authuser=0) as part of a research grant I have been awarded after the Master
