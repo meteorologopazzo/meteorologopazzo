@@ -1,0 +1,24 @@
+slide 1
+Morning everybody,my name is alessandro storer and in this brief talk I will 
+outline what I have learnt so far and what I am set to discover about how
+surface turbulent fluxes shape the BL.convection coupling across Tropical Oceans.
+
+slide 2
+But many of you by now may wonder how I even got here.
+It all started in Milan six years ago with Physics, 
+but it was only when I understood my love for clouds that the Master in Meterology 
+really turned things interesting. Even more so, the work carried out in the last 12 months as a research assistant in prof CP 's group at the Uni Milna Bicocca, which I will discuss in the first slides, have been really precious for introducing me to the topic of air sea interactions and to eventually take me here as a PhD candidate since last Monday.
+
+slide 3
+If any people were to tell you that the ocean is a boring spatially homogeneous surface, do not trust them.
+The sea surface is, instead, constantly stirred by localized eddies and fronts.
+These are characterized by local sea surface temperature perturbations, with spatial coverage 
+that can range from km-scale to hundreds of kilometers: technically termed the submeso and mesoscale ranges.
+We were interested in understanding the thermodynamic adjustment of the maritime boundary layer to such mesoscale SST anomalies, in terms of local modifications of surface latent and sensible heat fluxes and BL-top entrainment.
+
+slide 4
+We worked with high-res. WRF numerical simulations centred in the EUREC4A region
+We correlated the SST anomalies with the corresponding anomalies in the atmospheric variables within the BL, observing that 
+- the BL temperature partially adjusts to the SST variations
+- SST anomalies impact the air static stability, with a monotonic deepening of the BL over warmer SSTs
+- which eventually correlate significantly with a substantial increase in surface LHF.
